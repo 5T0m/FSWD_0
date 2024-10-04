@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Contacts from './components/Contacts'
+import Contacts from './components/contacts'
 
 
 const App = () => {

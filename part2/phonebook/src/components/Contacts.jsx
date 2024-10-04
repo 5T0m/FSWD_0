@@ -1,6 +1,6 @@
 
 
-constant contacts = ({list}) => {
+constant Contacts = ({list}) => {
   return (
     <div>
       {list.map(element => 
@@ -10,4 +10,4 @@ constant contacts = ({list}) => {
   )
 }
 
-export default contacts
+export default Contacts
